@@ -1,2 +1,1 @@
 # Walmart
-Projeto Walmart
