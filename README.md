@@ -1,4 +1,4 @@
-# Walmart
+# Walmart - CEP válido
 <tr>
 	<td>open</td>
 	<td>/</td>
